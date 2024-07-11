@@ -1,14 +1,14 @@
 ## Entities: 
 
-[] Product
+- [ ] Product
 
-[] Stock
+- [ ] Stock
 
-[] Sales
+- [ ] Sales
 
-[] Purchase orders
+- [ ] Purchase orders
 
-[] Providers
+- [ ] Providers
 
 
 
